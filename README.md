@@ -8,7 +8,7 @@
  ```python
 pip install pygame
 ```
-> - 运行 fly plane.py
+> - 运行 plane_war.py
 ***
 - 由于exe文件太大所以不上传先
 ***
