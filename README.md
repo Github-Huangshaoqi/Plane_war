@@ -9,4 +9,7 @@
 pip install pygame
 ```
 > - 运行 fly plane.py
+***
+- 由于exe文件太大所以不上传先
+***
 #### 我是一个不知道README.md写什么的某同学
