@@ -1,4 +1,6 @@
 # plane_war
+![license](https://img.shields.io/badge/license-MIT-brightgreen
+)
 - 编程侯老师的飞机大战小游戏
 ## 原视频
 > - [西瓜视频](https://www.ixigua.com/7182458774987211297?series_flow=1&logTag=7cff01becaab41e30793)
